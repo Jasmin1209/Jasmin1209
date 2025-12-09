@@ -8,7 +8,7 @@
 Iniciante na área da Programação | Aluna do curso de Análise e Desenvolvimento de Sistemas.
 </p>
 
-## 👨‍💻 Sobre min
+## 👨‍💻 Sobre mim
 Estou na área da tecnologia apenas como estudante desde 2023, estou no 3ª semestre da faculdade de Análise e Desenvolvimento de Sistemas do IFBA-campus Irecê. 
 
 Desde muito nova tenho afinidade com as tecnologias, mas nunca tinha cogitado a hipótese de trabalhar nela. Atualmente, estou migrando de área e desejo muito encontrar meu espaço.
@@ -17,8 +17,10 @@ Tenho muito interesse no campo das tecnologias de back-end e cibersegurança, pa
 
 ## 🧠 Habilidades
 
-- **Ferramentas**: Git, GitHub, VsCode, Figma, Node.Js
-- **Linguagens**: C, Javascript, CSS e HTML.
+- **Ferramentas**: Git, GitHub, VsCode, Figma, Node.Js.
+- **Framework**: SpringBoot.
+- **Bancos de dados**: MySQL, PostgreSQL
+- **Linguagens**: Java, C, Javascript, CSS e HTML.
 - **Idioma**: Inglês (Intermediário).
 
 ## 💡 Git Status
